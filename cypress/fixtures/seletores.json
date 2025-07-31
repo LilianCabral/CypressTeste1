@@ -1,0 +1,11 @@
+{
+  "url": "https://www.kabum.com.br/",
+  "produto": ".productLink",
+  "adicionarCarrinho": "[aria-label='Adicionar ao carrinho']",
+  "carrinho": "[href='/carrinho']",
+  "removerCarrinho": "button[id*='remove-button']",
+  "confirmarRemoverCarrinho": "Sim",
+  "validarCarrinhoVazioElemento": "#main-content",
+  "validarCarrinhoVazioTexto": "O seu carrinho está vazio."
+}
+
